@@ -1,0 +1,4 @@
+name: HarderBosses
+version: '${project.version}'
+main: me.drysu.harderbosses.HarderBosses
+api-version: 1.18
